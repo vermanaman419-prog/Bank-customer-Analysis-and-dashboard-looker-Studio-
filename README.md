@@ -11,7 +11,7 @@ The goal of this project is to:
 * Clean and standardize raw banking transaction data
 * Engineer meaningful features for time-based and customer analysis
 * Build a professional, interactive **Looker Studio dashboard** with KPIs and visual insights
-* Present results in a business-ready, interview-friendly format
+* Present results in a business-ready format
 
 ---
 
